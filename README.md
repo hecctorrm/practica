@@ -1,4 +1,4 @@
 # Practica9DAM2526
+PEQUEÑA PRUEBA DE HITHUB EN LA CLASE DE ENTORNOS DE DESARROLLO.
 Práctica 9 de DAM. A partir de esta línea añade tu nombre, respetando los nombres de los compañeros que ya estén incluidos
-Héctor Ordín Lencina
 Héctor Reyes Medina
